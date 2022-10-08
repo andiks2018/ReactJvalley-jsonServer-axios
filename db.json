@@ -1,0 +1,39 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "Abdul minggu depan merit",
+      "slug": "abdul-minggu-depan-merit",
+      "body": "Kabar gembira teman-teman...",
+      "banner": "https://images.pexels.com/photos/88502/tulips-holland-tulip-fields-royalty-free-88502.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=300"
+    },
+    {
+      "id": 2,
+      "title": "Jvalley membuka batch 10",
+      "slug": "jvalley-membuka-batch-10",
+      "body": "Halo teman teman ...",
+      "banner": "https://images.pexels.com/photos/88502/tulips-holland-tulip-fields-royalty-free-88502.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=300"
+    },
+    {
+      "id": 3,
+      "title": "Belajar basic javascript",
+      "slug": "belajar-basic-javascript",
+      "body": "Kali ini kita akan belajar javascript",
+      "banner": "https://images.pexels.com/photos/721480/pexels-photo-721480.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+      "title": "coba",
+      "slug": "coba-slug",
+      "body": "tes selamat data di body",
+      "banner": "https://images.pexels.com/photos/1603/field-yellow-blur-grain.jpg?auto=compress&cs=tinysrgb&dpr=1&w=300",
+      "id": 4
+    },
+    {
+      "title": "coba ya",
+      "slug": "cobaya-slug",
+      "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "banner": "https://images.pexels.com/photos/674250/pexels-photo-674250.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=300",
+      "id": 5
+    }
+  ]
+}
